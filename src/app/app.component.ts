@@ -96,3 +96,6 @@ export class AppComponent {
     return JSON.parse(res) as Recipe;
   }
 }
+
+
+// npm i @google/generative-ai
